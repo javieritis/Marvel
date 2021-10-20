@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Card.CornerBottomRightCut" parent="ShapeAppearance.MaterialComponents">
+        <item name="cornerFamilyBottomRight">cut</item>
+        <item name="cornerSizeBottomRight">24dp</item>
+        <item name="cornerSizeBottomLeft">4dp</item>
+        <item name="cornerSizeTopLeft">4dp</item>
+        <item name="cornerSizeTopRight">4dp</item>
+    </style>
+
+
+    //Text styles
+
+    <style name="RobotoCondensedRegular">
+        <item name="android:fontFamily">@font/roboto_condensed_400</item>
+    </style>
+
+    <style name="RobotoCondensedMedium">
+        <item name="android:fontFamily">@font/roboto_condensed_500</item>
+    </style>
+
+    <style name="RobotoCondensedBold">
+        <item name="android:fontFamily">@font/roboto_condensed_800</item>
+    </style>
+
+    <style name="RobotoRegular">
+        <item name="android:fontFamily">@font/roboto_400</item>
+    </style>
+
+    <style name="RobotoMedium">
+        <item name="android:fontFamily">@font/roboto_500</item>
+    </style>
+
+    <style name="RobotoBold">
+        <item name="android:fontFamily">@font/roboto_800</item>
+    </style>
+
+
+    <style name="TitleRobotoCondensed" parent="RobotoCondensedBold">
+        <item name="android:textSize">16sp</item>
+        <item name="lineSpacing">1px</item>
+    </style>
+
+    <style name="DescriptionRobotoCondensed" parent="RobotoCondensedRegular">
+        <item name="android:textSize">16sp</item>
+        <item name="lineSpacing">1px</item>
+    </style>
+
+    <style name="TitleRoboto" parent="RobotoBold">
+        <item name="android:textSize">16sp</item>
+        <item name="lineSpacing">1px</item>
+    </style>
+
+    <style name="DescriptionRoboto" parent="RobotoRegular">
+        <item name="android:textSize">16sp</item>
+        <item name="lineSpacing">1px</item>
+    </style>
+
+</resources>

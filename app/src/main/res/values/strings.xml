@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="error_network">A connection error has occurred.</string>
+    <string name="error_generic">Ops 😩! An error has occurred. He tries again.</string>
+    <string name="retry">Retry 🤞</string>
+    <string name="empty">No character found. How odd 🤔</string>
+
+    <string name="transition_image_view">default_transition</string>
+    <string name="order">Order</string>
+    <string name="characters">Characters</string>
+    <string name="series">Series</string>
+    <string name="comics">Comics</string>
+
+    <string name="name_ascending">Name A-Z</string>
+    <string name="name_descending">Name Z-A</string>
+    <string name="date_modified_ascending">Ascending modification date</string>
+    <string name="date_modified_descending">Descending modification date</string>
+    <string name="apply">Apply</string>
+
+    <string name="isbn">ISBN: %1$s</string>
+    <string name="page_count">Page count: %1$d</string>
+    <string name="rating">Rating: %1$s</string>
+</resources>

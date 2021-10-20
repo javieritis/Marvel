@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="error_network">Se ha producido un error de conexión.</string>
+    <string name="error_generic">Ops 😩! Se ha producido un error. Vuelve a intentarlo.</string>
+    <string name="retry">Reintentar 🤞</string>
+    <string name="empty">No se ha encontrado a ningún personaje. Que raro 🤔</string>
+
+    <string name="transition_image_view">default_transition</string>
+    <string name="order">Filtrar</string>
+    <string name="characters">Personajes</string>
+    <string name="series">Series</string>
+    <string name="comics">Comics</string>
+
+    <string name="name_ascending">Nombre A-Z</string>
+    <string name="name_descending">Nombre Z-A</string>
+    <string name="date_modified_ascending">Fecha modificación ascendente</string>
+    <string name="date_modified_descending">Fecha modificación descendente</string>
+    <string name="apply">Aplicar</string>
+
+    <string name="isbn">ISBN: %1$s</string>
+    <string name="page_count">Nº páginas: %1$d</string>
+    <string name="rating">Clasificación: %1$s</string>
+</resources>
